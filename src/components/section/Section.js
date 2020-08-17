@@ -1,5 +1,5 @@
 import React from "react";
-import defaultProps from 'prop-types'
+// import defaultProps from 'prop-types'
 
 const Section = ({ title, children }) => {
   return (
